@@ -59,9 +59,8 @@ If you are using Vim, you can use [gh.vim](https://github.com/skanehira/gh.vim) 
 
 ## Installation
 
-```sh
-$ git clone https://github.com/skanehira/github-tui
-$ go install ./cmd/ght
+```console
+go install github.com/skanehira/ght/cmd/ght@latest;
 ```
 
 ## Settings
